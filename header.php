@@ -59,7 +59,7 @@
                                             <li class="static"><a href="pages.php">pages <i class="fa fa-angle"></i></a>
                                                 
                                             </li>
-                                            <li><a href="shop.php">shop <i class="fa fa-angle"></i></a>
+                                            <li><a href="shop.php"> our shop <i class="fa fa-angle"></i></a>
                                                 
                                             </li>
                                             <li><a href="blog.php">Blog <i class="fa fa-angle"></i></a>
