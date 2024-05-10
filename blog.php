@@ -8,7 +8,7 @@ include 'header.php'
                 <div class="row">
                     <div class="col-12">
                         <div class="section-title text-center mt-5" >
-                            <h2>latest blog</h2>
+                            <h2>latest BLOG</h2>
                             <p>Accumsan vitae pede lacus ut ullamcorper sollicitudin quisque libero</p>
                         </div>
                     </div>
